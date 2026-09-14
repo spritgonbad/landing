@@ -1,0 +1,11 @@
+{
+  "name":"فروشگاه لباس اسپریت",
+  "short_name":"اسپریت",
+  "lang":"fa-IR",
+  "dir":"rtl",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4eee3",
+  "theme_color":"#6b052b",
+  "icons":[{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
