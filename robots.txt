@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/spirit-plus-size/sitemap.xml
+Sitemap: https://spritgonbad.github.io/landing/sitemap.xml
